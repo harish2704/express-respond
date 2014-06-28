@@ -1,6 +1,6 @@
 {
   "name": "express-respond",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express res.respond .Send data in requested format.",
   "main": "lib/respond.js",
   "scripts": {
